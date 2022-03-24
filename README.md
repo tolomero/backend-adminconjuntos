@@ -19,7 +19,7 @@ Use el comando de instalación de [npm](https://www.npmjs.com/).
 
 ## comando en desarrollo node.js para correr el servicio ⌨️
 
-```node,js
+```node.js
 # powershell 'words'
   npm run dev
 ```
